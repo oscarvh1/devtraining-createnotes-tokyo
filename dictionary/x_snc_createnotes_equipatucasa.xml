@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e310093e97d67110f9c6b8e6f053aff9" label="equipatucasa" max_length="40" name="x_snc_createnotes_equipatucasa" type="collection">
+        <element label="Apellido" max_length="20" name="apellido" type="string"/>
+        <element label="nombre" max_length="20" name="nombre" type="string"/>
+    </element>
+</database>
