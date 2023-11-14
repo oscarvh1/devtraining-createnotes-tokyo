@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="addUibTabAccessibility">ba2c64e253022010bcd5ddeeff7b12b4</sp_angular_provider>
+        <sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 22:14:14</sys_created_on>
+        <sys_id>19a10dc197663110f9c6b8e6f053afe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>addUibTabAccessibility.Notes List</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_19a10dc197663110f9c6b8e6f053afe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 22:14:14</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>a9aec44edb1695180b9d21c4059619fe</instance_id>
+        <instance_name>dev138610</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_19a10dc197663110f9c6b8e6f053afe3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="addUibTabAccessibility">ba2c64e253022010bcd5ddeeff7b12b4</sp_angular_provider><sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 22:14:14</sys_created_on><sys_id>19a10dc197663110f9c6b8e6f053afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>addUibTabAccessibility.Notes List</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_19a10dc197663110f9c6b8e6f053afe3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 22:14:14</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>66491101</payload_hash>
+        <record_name>addUibTabAccessibility.Notes List</record_name>
+        <reverted_from/>
+        <source>0907c75e97923110f9c6b8e6f053af04</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 22:14:14</sys_created_on>
+        <sys_id>11a10dc197663110f9c6b8e6f053afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcfe63e2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 22:14:14</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>59a10dc198663110f6dc324684662be5</update_guid>
+        <update_guid_history>59a10dc198663110f6dc324684662be5:66491101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="addUibTabAccessibility.Notes List">2182014597663110f9c6b8e6f053af73</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 22:18:04</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>02a65f47ebf24958822ae6409cbcd310</sys_id>
+        <sys_metadata>19a10dc197663110f9c6b8e6f053afe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>addUibTabAccessibility.Notes List</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_19a10dc197663110f9c6b8e6f053afe3</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_19a10dc197663110f9c6b8e6f053afe3">11a10dc197663110f9c6b8e6f053afe6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 22:18:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
